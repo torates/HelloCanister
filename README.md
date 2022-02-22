@@ -1,4 +1,4 @@
-# hello
+# Hello Motoko Friends!
 
 Excited to be part of motoko bootcamp - please take a look at my NFT project repo if you want - but as of today, 22-2-2022 i have not yet pushed the latest changes.
 
